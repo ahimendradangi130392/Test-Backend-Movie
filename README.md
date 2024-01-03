@@ -1,5 +1,4 @@
-# Test-Backend-Movie
-# create .env file  and make all variable
+# create .env file 
 APP_NAME=MOVIE-BACKEND
 APP_SCHEMA=http
 APP_HOST=localhost
