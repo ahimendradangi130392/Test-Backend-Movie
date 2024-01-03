@@ -1,0 +1,1 @@
+{"version":3,"file":"PermissionRepository.js","sourceRoot":"","sources":["../../../../src/api/repositories/PermissionRepository.ts"],"names":[],"mappings":";;;;AAAA,qCAAuD;AACvD,+DAA4D;AAG5D,IAAa,oBAAoB,GAAjC,MAAa,oBAAqB,SAAQ,oBAA2B;CAEpE,CAAA;AAFY,oBAAoB;IADhC,IAAA,0BAAgB,EAAC,iCAAe,CAAC;GACrB,oBAAoB,CAEhC;AAFY,oDAAoB"}
